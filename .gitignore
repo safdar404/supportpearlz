@@ -1,0 +1,11 @@
+.env
+data/vector_store/
+data/embedding_cache/
+logs/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+evaluation/results/*.json
+.streamlit/secrets.toml

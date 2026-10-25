@@ -1,0 +1,20 @@
+sku,product_name,product_line,category,description,list_price_pkr,promo_price_pkr,availability,replacement_interval
+AP5-UNIT,AquaPearl 500 Pro,AquaPearl 500 Pro,purifier,RO + UV + mineral purifier 12 L tank,64900,59900,in stock,
+AP3-UNIT,AquaPearl 300,AquaPearl 300,purifier,RO purifier 8 L tank,38500,,in stock,
+AEM-UNIT,AeroPearl Mini,AeroPearl Mini,air purifier,HEPA air purifier for rooms up to 250 sq ft,27500,24900,in stock,
+AP2-UNIT,AquaPearl 200,AquaPearl 200,purifier,Discontinued RO purifier,,,discontinued,
+AE1-UNIT,AeroPearl 1,AeroPearl 1,air purifier,Discontinued air purifier,,,discontinued,
+AP5-SED,Sediment pre-filter,AquaPearl 500 Pro,filter,Stage 1 sediment pre-filter cartridge,1850,1650,in stock,6 months
+AP5-CB,Carbon block filter,AquaPearl 500 Pro,filter,Stage 2 activated carbon block,2600,,in stock,12 months
+AP5-RO,RO membrane,AquaPearl 500 Pro,filter,75 GPD reverse-osmosis membrane,7900,,in stock,24 months
+AP5-UV,UV lamp,AquaPearl 500 Pro,consumable,11 W UV-C lamp,3200,,in stock,12 months
+AP5-MIN,Mineral cartridge,AquaPearl 500 Pro,filter,Post-filter mineral cartridge,2100,,in stock,12 months
+AP3-SED,Sediment pre-filter,AquaPearl 300,filter,Stage 1 sediment pre-filter cartridge,1450,,in stock,6 months
+AP3-CB,Carbon block filter,AquaPearl 300,filter,Stage 2 activated carbon block,2200,,in stock,12 months
+AP3-RO,RO membrane,AquaPearl 300,filter,50 GPD reverse-osmosis membrane,6900,,low stock,24 months
+AP2-SED,Sediment pre-filter,AquaPearl 200,filter,Pre-filter for discontinued AquaPearl 200,1300,,while stocks last,6 months
+AEM-HEPA,HEPA filter,AeroPearl Mini,filter,H13 HEPA + carbon filter,3400,2990,in stock,9 months
+AP5-YR,Year of Pure Water bundle,AquaPearl 500 Pro,bundle,2 sediment pre-filters + carbon block + mineral cartridge,8400,7900,in stock,
+AP5-DESC,Descaling kit,AquaPearl 500 Pro,accessory,Food-safe descaling sachets (3 uses),950,,in stock,
+SVC-INSTALL-METRO,Professional installation (metro),All,service,Technician installation in Karachi Lahore Islamabad Rawalpindi,1500,,available,
+SVC-INSTALL-OTHER,Professional installation (other cities),All,service,Technician installation outside metro cities,2500,,available,

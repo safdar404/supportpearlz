@@ -1,0 +1,14 @@
+{
+  "product_manual_aquapearl500.pdf": {"doc_type": "manual", "product_line": "AquaPearl 500 Pro", "version": "1.3 (firmware 2.3)", "last_updated": "2025-07-01"},
+  "installation_guide.pdf": {"doc_type": "guide", "product_line": "AquaPearl", "version": "2.0", "last_updated": "2025-09-01"},
+  "warranty_policy.md": {"doc_type": "policy", "product_line": "all", "version": "3.1", "last_updated": "2026-03-01"},
+  "refund_returns_policy.docx": {"doc_type": "policy", "product_line": "all", "version": "2.2", "last_updated": "2026-01-10"},
+  "shipping_policy.md": {"doc_type": "policy", "product_line": "all", "version": "2.4", "last_updated": "2026-01-15"},
+  "troubleshooting_guide.md": {"doc_type": "guide", "product_line": "AquaPearl", "version": "4.0", "last_updated": "2026-02-10"},
+  "faq.md": {"doc_type": "faq", "product_line": "all", "version": "5.0", "last_updated": "2026-04-05"},
+  "pricing_guide.csv": {"doc_type": "pricing", "product_line": "all", "version": "2026-Q2", "last_updated": "2026-04-01"},
+  "privacy_policy.docx": {"doc_type": "policy", "product_line": "all", "version": "1.4", "last_updated": "2025-12-01"},
+  "service_maintenance_agreement.docx": {"doc_type": "policy", "product_line": "all", "version": "2.0", "last_updated": "2025-10-15"},
+  "customer_service_handbook.md": {"doc_type": "guide", "product_line": "all", "version": "1.7", "last_updated": "2026-02-20"},
+  "product_changelog.md": {"doc_type": "guide", "product_line": "AquaPearl 500 Pro", "version": "2.5", "last_updated": "2026-04-02"}
+}
