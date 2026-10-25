@@ -26,6 +26,8 @@ from src.utils.logging_setup import read_turns, setup_logging
 
 st.set_page_config(page_title="SupportPearlz", page_icon="💧", layout="wide", initial_sidebar_state="expanded")
 st.markdown(CSS, unsafe_allow_html=True)
+from purple_palette import apply_palette
+apply_palette()
 ss = st.session_state
 ss.setdefault("session_id", uuid.uuid4().hex[:8])
 ss.setdefault("chat", [])          # list of (question, GroundedResponse)
