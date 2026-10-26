@@ -1,6 +1,15 @@
-# 💧 SupportPearlz — RAG Customer Support Agent
+# 🤖 SupportPearlz — RAG Customer Support Agent
 
 **AAI-407 / PRAC-03.** A LangChain retrieval-augmented support assistant for the fictional Pearlz Home Systems. It ingests 12 company documents (PDF, DOCX, Markdown, CSV) once into a persistent FAISS index, then answers multi-turn customer questions by rewriting follow-ups into standalone queries, retrieving relevant passages, and generating a schema-validated answer with validated citations, or an honest refusal.
+
+## ✨ What's new (Prism AI UI)
+
+- 🎭 **Demo mode** — try the whole pipeline with no API key: offline hashed embeddings + an extractive stand-in that quotes the docs with real citations (`src/demo.py`). Clearly labelled; add a key for real AI answers.
+- 🌈 **Prism AI theme** — deep-space base, animated rainbow accents, glass cards, AI-agent logo (`assets/agent_logo.svg`), compact mobile layout.
+- ✨ Suggested-question pills, 👍/👎 feedback on every answer, 📊 live session stats, 📥 Markdown export of the conversation.
+- 📖 Document viewer + 🔍 find-in-documents (offline) in the Knowledge tab.
+- 🔒 Turn log now shows only the current session (other visitors' questions were visible before); uploads capped at 5 MB.
+- 🐛 Fixed: sidebar brand text invisible on the dark theme; Turn-log table failing Arrow serialisation; similarity debugger re-embedding on every rerun (now a form).
 
 ## Prerequisites
 - Python 3.10+ (tested on 3.12)
